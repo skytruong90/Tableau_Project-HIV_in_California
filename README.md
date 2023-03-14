@@ -20,7 +20,7 @@ Overall, My project likely serves as a comprehensive and user-friendly resource 
 5. The public health policies and initiatives aimed at reducing the spread of HIV in California, such as educational campaigns, condom distribution programs, and needle exchange programs.
 6. The challenges and barriers that exist in addressing the HIV epidemic in California, such as stigma, discrimination, and limited resources in certain communities.
 
-## What I would improved:
+## What I would improve:
 1. Consider adding additional contextual information or annotations to help users understand the significance of the data you're presenting. For example, I could include information on the social, economic, or political factors that may be contributing to the HIV epidemic in California.
 2. Make sure that this project is accessible and user-friendly. Consider testing it with users from different backgrounds and levels of expertise to ensure that it is easy to navigate and understand.
 3. Consider including more interactive features or functionality to my dashboard, such as filters or tooltips, to allow users to explore the data in more detail.
