@@ -1,11 +1,6 @@
 # Title: Tableau Project
 ### This is "My Business Review of HIV in California" using Tableau
 
-## How to install:
-1. Clone the repository:  
-2. The main code is inside the code folder when you download everything.
-3. Run the project with any IDE.
-
 ## My Objective: 
 ### To created a visual dashboard or report in Tableau that examines HIV statistics and trends in the state of California. The dashboard likely includes various data visualizations and charts, such as maps, bar charts, and line charts, to help users understand the data and trends more easily.
 
