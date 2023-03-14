@@ -29,7 +29,7 @@ Overall, My project likely serves as a comprehensive and user-friendly resource 
 2. Visualizations that provide users with a clear and easy-to-understand overview of the data, such as maps, bar charts, and line charts.
 3. Interactive features or functionality that allow users to explore the data in more detail, such as filters, tooltips, or drill-down functionality.
 
-## Link to your Tableau Public Profile for project:
+## Link to my Tableau Public Profile:
 
 https://public.tableau.com/views/finalprojectreport-MyBusinessReviewofHIVinCalifornina/MyBusinessReviewofHIVinCalifornia?:language=en-US&:display_count=n&:origin=viz_share_link
 
