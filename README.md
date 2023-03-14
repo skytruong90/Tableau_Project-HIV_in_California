@@ -32,5 +32,5 @@ Overall, My project likely serves as a comprehensive and user-friendly resource 
 
 ## Link to my Tableau Public Profile:
 
-https://public.tableau.com/views/finalprojectreport-MyBusinessReviewofHIVinCalifornina/MyBusinessReviewofHIVinCalifornia?:language=en-US&:display_count=n&:origin=viz_share_link
+https://tinyurl.com/yvf99uak
 
